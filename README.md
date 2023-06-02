@@ -7,10 +7,12 @@ I'm Helen!
 
 ***
 
-  * A motivated and self-driven individual who is highly analytical with a passion for spotting trends and patterns and deep diving into consumer    behaviours. With a BSc in Psychology and 12 years experience as a Retail & Ecommerce Merchandiser, I have extensive experience analysing sales data, customer shopping patterns, store performance, marketing performance and competitor offerings. My primary role as a Merchandiser was to use these insights to identify growth opportunities and influence business decisions to increase profitability.
+  * A motivated and self-driven individual who is highly analytical with a passion for spotting trends and patterns and deep diving into consumer    behaviours. With a BSc in Psychology and 12 years experience as a Retail & Ecommerce Merchandiser, I have extensive experience analysing different data sets. Example analyses conducted in my current role include sales and profit information, marketing performance, competitor offerings and digital metrics e.g. visits, conversion, average order value, bounce rate. As a Merchandiser I use these insights to identify growth opportunities and influence business decisions to increase profitability. My career in Merchandising has taught me to think strategically with both long term and short term goals in mind, invaluable skills in problem solving, attention to detail, managing change, working cross functionally, stakeholder management and team management.
 
-  * Building on my love for data and insights analysis, which i have previously carried out in Excel, I have spent the last few months developing my skills in this area adding SQL and Tableau to my skillset having recently completed the Datacamp SQL Fundamentals & Tableau courses.  
-
+   
+  * My love for data analytics and insights has led me to a career transition from Merchandising into Data/Insights. In my career to date, all of my analysis has been carried out using Microsoft Excel which i can use at an advanced level. In order to build my skill set further, I have recently completed the Datacamp SQL fundamentals and Tableau courses. These courses enabled me to gain a comprehensive understanding of data science and statistics and also data communication and visualisation concepts. Through these courses i also gained the technical skills involved in Data cleaning, validation, manipulation and exploration to enable me to conduct detailed insightful analysis.
+  
+  
 
 ### 📁 Portfolio Projects
 

@@ -14,9 +14,7 @@ I'm Helen!
   
   
 
-### 📁 Portfolio Projects
 
-***
 
 
 
